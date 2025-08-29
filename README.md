@@ -7,3 +7,7 @@ example .env:
 OPENAI_API_KEY = <API_KEY>
 TELEGRAM_TOKEN = <TOKEN>
 TELEGRAM_CHAT_ID = <CHAT_ID>
+
+# next steps
+
+filter by date, currently there is information coming through from 2023/2024 articles. I want only current information in the updates. If there is no relevant articles then I want the script to default to general daily news
