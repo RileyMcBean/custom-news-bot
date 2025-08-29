@@ -1,0 +1,11 @@
+{
+  "interests": ["AI", "machine learning", "BMW M3", "finance"],
+  "telegram_chat_id": "<ID>",
+  "telegram_token": "<TOKEN>",
+  "openai_api_key":"<API_KEY",
+  "sources": [
+    "http://feeds.bbci.co.uk/news/rss.xml",
+    "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+    "https://www.autocar.co.uk/rss"
+  ]
+}
