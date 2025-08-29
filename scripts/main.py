@@ -56,6 +56,9 @@ def create_digest(articles, interests):
 
     {text}
 
+    Include only articles relevant to the user's interests.
+    Summarise key facts, figures, or newsworthy points in 2–3 concise sentences.
+    
     Please format the digest as a plain text bulleted list of articles. For each article:
     - Start with a bullet point (e.g., '- ')
     - Provide a title.

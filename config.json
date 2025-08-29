@@ -1,5 +1,5 @@
 {
-  "interests": ["AI", "machine learning", "BMW M3", "finance"],
+  "interests": ["AI", "Data", "BMW M3", "finance", "Savings", "investing", "technology", "Cars", "Mortgage"],
   "telegram_chat_id": "<ID>",
   "telegram_token": "<TOKEN>",
   "openai_api_key":"<API_KEY",
